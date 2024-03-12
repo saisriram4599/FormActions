@@ -1,0 +1,19 @@
+.details-table {
+     border-collapse: collapse;
+     width: 100%;
+   }
+   
+   .details-table th, .details-table td {
+     border: 1px solid #dddddd;
+     padding: 8px;
+     text-align: left;
+   }
+   
+   .line-row {
+     background-color: #f2f2f2; /* Choose your desired line color */
+   }
+   
+   .line-row td {
+     border-top: 2px solid #999999; /* Choose your desired line color */
+   }
+   
